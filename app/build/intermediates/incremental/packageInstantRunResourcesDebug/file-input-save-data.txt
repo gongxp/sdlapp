@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Mar 15 21:37:03 CST 2017
+1.base=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ASSET
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\assets\\debug
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\assets\\debug\\image.bmp
+0.file=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\build\\intermediates\\res\\resources-debug.ap_

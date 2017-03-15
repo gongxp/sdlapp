@@ -1,0 +1,16 @@
+
+{
+	"buildFiles" : [ "C:/Users/user/AndroidStudioProjects/sdlapp/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\user\\AndroidStudioProjects\\sdlapp\\app\\.externalNativeBuild\\cmake\\debug\\mips --target clean"
+	],
+	"toolchains" : 
+	{
+		"1344580727" : 
+		{
+			"cCompilerExecutable" : "C:/Users/user/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/user/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
